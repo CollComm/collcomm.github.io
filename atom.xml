@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://notes.lincheng.uk</id>
+    <title>林的学习笔记</title>
+    <updated>2022-03-05T03:37:39.237Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://notes.lincheng.uk"/>
+    <link rel="self" href="https://notes.lincheng.uk/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://notes.lincheng.uk/images/avatar.png</logo>
+    <icon>https://notes.lincheng.uk/favicon.ico</icon>
+    <rights>All rights reserved 2022, 林的学习笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://notes.lincheng.uk/post/hello-world/</id>
+        <link href="https://notes.lincheng.uk/post/hello-world/">
+        </link>
+        <updated>2022-03-04T10:37:18.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="this-post-is-to-mark-the-point-to-add-the-gitalk-commenting-system">This post is to mark the point to add the gitalk commenting system.</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://notes.lincheng.uk/post/test/</id>
+        <link href="https://notes.lincheng.uk/post/test/">
+        </link>
+        <updated>2022-02-28T12:35:50.000Z</updated>
+        <content type="html"><![CDATA[<p>Test article.</p>
+<h1 id="this-is-a-great-article">THis is a great article</h1>
+<h2 id="it-starts-with-one-sentence">It starts with one sentence</h2>
+<h2 id="then-another">Then another</h2>
+<h2 id="then-another-2">Then another</h2>
+<h2 id="and-it-ends-here">And it ends here.</h2>
+<p><em>What you might say</em></p>
+<p>Yes. It is expected and clear as this.</p>
+]]></content>
+    </entry>
+</feed>
