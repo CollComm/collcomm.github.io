@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://notes.lincheng.uk</id>
     <title>林的学习笔记</title>
-    <updated>2022-03-05T04:12:02.404Z</updated>
+    <updated>2022-03-09T01:33:23.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://notes.lincheng.uk"/>
     <link rel="self" href="https://notes.lincheng.uk/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://notes.lincheng.uk/images/avatar.png</logo>
     <icon>https://notes.lincheng.uk/favicon.ico</icon>
     <rights>All rights reserved 2022, 林的学习笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[零基预算法，一个强大的思考工具]]></title>
+        <id>https://notes.lincheng.uk/post/ling-ji-yu-suan-fa-yi-ge-qiang-da-de-si-kao-gong-ju/</id>
+        <link href="https://notes.lincheng.uk/post/ling-ji-yu-suan-fa-yi-ge-qiang-da-de-si-kao-gong-ju/">
+        </link>
+        <updated>2022-03-08T08:35:15.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="什么是零基预算法">什么是零基预算法？</h1>
+<p>零基预算法(Zero-based budgeting)是指每一个会计周期，开支都不从原有的基础出发。而是一切从零开始，审核每一笔开支的必要性。</p>
+<h1 id="为什么要使用零基预算法">为什么要使用零基预算法？</h1>
+<p>因为这个方法可以帮我们更好的集中精力，把注意力放在有最大产出的事情上，从而产生更大的影响力。</p>
+<h1 id="零基预算法最大的优缺点">零基预算法最大的优缺点？</h1>
+<p>零基预算法最大的优点是敏捷，也就是不认为上年的每个支出项目都是必要的。从而更好的适应新的环境变化。<br>
+零基预算法最大的缺点是费时，因为一切工作都要从头开始，所以制定预算所需要的时间更长。</p>
+<h1 id="零基预算法怎么用在个人生活里">零基预算法怎么用在个人生活里？</h1>
+<ol>
+<li>问自己如下问题——已知我现在所知的所有信息，是否有任何我现在在做的事情，我重新开始的话就不会再去做？</li>
+<li>找出这件事情，然后及时止损。想好要怎么停，需要多久停。</li>
+<li>回到1，继续寻找下一件事情。</li>
+</ol>
+<h1 id="举例">举例：</h1>
+<p>如果当初我知道这个人是这样的话，我就不会和他(她)交往。=》果断分手。<br>
+如果当初知道这个员工是这样的话，我就不会雇佣他(她)。=》果断解雇。<br>
+如果当初知道这个公司是这样的话，我就不会加入公司。=》果断离职。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://notes.lincheng.uk/post/hello-world/</id>
